@@ -1,4 +1,4 @@
-## A simple Python wrapper Redditmetrics.com 
+## A simple Python wrapper for Redditmetrics.com 
 
 Installation
 ------------
