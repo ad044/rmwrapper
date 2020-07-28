@@ -100,7 +100,7 @@ def subreddit_get_current_rank(subreddit):
     return __get_subreddit_ranking_table(subreddit)[1].text
 
 # ==========================================================
-# SUBREDDIT-SPECIFIC METHODS
+# GENERAL METHODS
 # ==========================================================
 
 
